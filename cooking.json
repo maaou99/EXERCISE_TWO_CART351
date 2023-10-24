@@ -1,0 +1,86 @@
+{
+    "Label":"Daily Cooking",
+    "SubLabel":"This data is loaded from a json file::",
+    "MealsItems":
+    [
+    {"Meal": "Homemade Salad",
+      "Duration": "30 minutes",
+      "Difficulty_level": 1,
+        "Ingredients_img": ["/assets/images/tomato.png", "/assets/images/cucumber.png", "/assets/images/lettuce.png", "/assets/images/onion.png", "/assets/images/radish.png"], 
+        "gif_image": "/assets/images/salad.gif",
+        "Salad_dressing": ["olive oil", "dijon mustard", "white vinegar", "balsamic vinegar"],
+        "Sauce_img": ["/assets/images/olive oil.png","/assets/images/dijon mustard.png", "/assets/images/white vinegar.png", "/assets/images/balsamic vinegar.png" ],
+        "Utensils": ["Large bowl", "knife","salad tongs"],
+        "Recipe": {
+            "Step_1": "Cut the ingrdients into small pieces",
+            "Step_2": "Place all the ingredients in a bowl",
+            "Step_3":  "add your salad dressing",
+            "Step_4": "enjoy"
+           
+        }
+
+  
+      },
+
+      {"Meal": "Burger",
+      "Duration": "45 minutes",
+      "Difficulty_level": 2,
+       
+        "Ingredients_img": ["/assets/images/tomato.png", "/assets/images/lettuce.png", "/assets/images/onion.png", "/assets/images/meat.png"], 
+        "gif_image": "/assets/images/burger.gif",
+        "Sauce": ["mayo", "ketchup", "balsamic vinegar"],
+        "Sauce_img": ["/assets/images/mayo.png", "/assets/images/ketchup.png", "/assets/images/balsamic vinegar.png" ],
+        "Utensils": ["spatula", "knife"],
+        "Recipe": {
+            "Step_1": "Heat up butter in a pan",
+            "Step_2": "Place beef patty on pan",
+            "Step_3":  "cook for 5-10min in medium heat",
+            "Step_4": "PLace patty between the buns ",
+            "Step_5": "Add you sauce",
+            "Step_6": "Add your tomato, onions, lettuce, and cheese",
+            "Step_7": "enjoy"
+           
+        }
+
+  
+      },
+      {"Meal": "Scrambled egges",
+      "Duration": "1 hour",
+      "Difficulty_level": 2,
+        "Ingredients_img": ["/assets/images/eggs.png"], 
+        "gif_image": "/assets/images/scrambled eggs.gif",
+        "Sauce": ["chili oil", "spring onions"],
+        "Sauce_img": ["/assets/images/chili oil.png", "/assets/images/spring onion.png"],
+        "Utensils": ["Large bowl", "knife","salad tongs"],
+        "Recipe": {
+            "Step_1": "Whisk the eggs",
+            "Step_2": "On a hot oiled pan, place the eggs",
+            "Step_3":  "let it cook for 5min on medium heat",
+            "Step_4":  "add your sauce.",
+            "Step_5": "enjoy"
+           
+        }
+
+  
+      },
+      {"Meal": "Pasta",
+      "Duration": "1 hour",
+      "Difficulty_level": 3,
+        "Ingredients_img": ["/assets/images/tomato.png", "/assets/images/pasta.png", "/assets/images/olive oil.png", "/assets/images/garlic.png", "/assets/images/basil.png", "/assets/images/rosemary.png", "/assets/images/oregano.png"], 
+        "Sauce_img": ["/assets/images/olive oil.png", "/assets/images/garlic.png", "/assets/images/basil.png", "/assets/images/rosemary.png", "/assets/images/oregano.png"],
+        "gif_image": "/assets/images/pasta.gif",
+        "Utensils": ["pan", "knife","Pasta Forkse"],
+        "Recipe": {
+            "Step_1": "Boil pasta",
+            "Step_2": "Sautee the garlic with olive oil",
+            "Step_3":  "add the tomato, tomato paste and the fresh herbs",
+            "Step_4": "mix the pasta with the sauce.",
+            "Step_5": "enjoy"
+           
+        }
+
+  
+      }
+       
+      ]
+    }
