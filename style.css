@@ -161,7 +161,7 @@ text-align: center;
  grid-column:1/8;
 margin-right: 10%;
  border: 2px solid rgb(0, 0, 0);
- background-image: url("/assets/images/plate.png") ;
+ background-image: url("assets/images/plate.png") ;
  background-repeat:no-repeat;
  background-position: center;
  background-size: contain; 
@@ -172,7 +172,7 @@ margin-right: 10%;
 padding: 8% 2%;
  grid-row: 1/4;
  border: 2px solid #000000;
- background-image: url("/assets/images/cooking_board.jpeg");
+ background-image: url("assets/images/cooking_board.jpeg");
  background-repeat: repeat;
  background-size: contain;   
  
