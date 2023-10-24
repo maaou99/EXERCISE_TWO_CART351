@@ -6,13 +6,13 @@
     {"Meal": "Homemade Salad",
       "Duration": "30 minutes",
       "Difficulty_level": 1,
-        "Ingredients_img": ["/assets/images/tomato.png", "/assets/images/cucumber.png", "/assets/images/lettuce.png", "/assets/images/onion.png", "/assets/images/radish.png"], 
-        "gif_image": "/assets/images/salad.gif",
+        "Ingredients_img": ["assets/images/tomato.png", "assets/images/cucumber.png", "assets/images/lettuce.png", "assets/images/onion.png", "assets/images/radish.png"], 
+        "gif_image": "assets/images/salad.gif",
         "Salad_dressing": ["olive oil", "dijon mustard", "white vinegar", "balsamic vinegar"],
-        "Sauce_img": ["/assets/images/olive oil.png","/assets/images/dijon mustard.png", "/assets/images/white vinegar.png", "/assets/images/balsamic vinegar.png" ],
+        "Sauce_img": ["assets/images/olive oil.png","assets/images/dijon mustard.png", "assets/images/white vinegar.png", "assets/images/balsamic vinegar.png" ],
         "Utensils": ["Large bowl", "knife","salad tongs"],
         "Recipe": {
-            "Step_1": "Cut the ingrdients into small pieces",
+            "Step_1": "Cut the ingredients into small pieces",
             "Step_2": "Place all the ingredients in a bowl",
             "Step_3":  "add your salad dressing",
             "Step_4": "enjoy"
@@ -26,10 +26,10 @@
       "Duration": "45 minutes",
       "Difficulty_level": 2,
        
-        "Ingredients_img": ["/assets/images/tomato.png", "/assets/images/lettuce.png", "/assets/images/onion.png", "/assets/images/meat.png"], 
-        "gif_image": "/assets/images/burger.gif",
+        "Ingredients_img": ["assets/images/tomato.png", "assets/images/lettuce.png", "assets/images/onion.png", "/assets/images/meat.png"], 
+        "gif_image": "assets/images/burger.gif",
         "Sauce": ["mayo", "ketchup", "balsamic vinegar"],
-        "Sauce_img": ["/assets/images/mayo.png", "/assets/images/ketchup.png", "/assets/images/balsamic vinegar.png" ],
+        "Sauce_img": ["assets/images/mayo.png", "assets/images/ketchup.png", "assets/images/balsamic vinegar.png" ],
         "Utensils": ["spatula", "knife"],
         "Recipe": {
             "Step_1": "Heat up butter in a pan",
